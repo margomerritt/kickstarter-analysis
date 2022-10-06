@@ -7,10 +7,10 @@ The Purpose of this project is to analyze and understand crowdfunding data to de
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 In this portion of the project we created a line graph titled “Theater Outcomes Based on Launch Date”. This graph shows the number of successful, failed, and canceled plays per month. The data for this graph was pulled from a pivot chart that can be filtered by parent category and year. The parent category was filtered for “theater”. 
-![Theater Outcomes vs Launch](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/111299372/194387916-771fb29f-6254-47b7-bae6-5d36e8838b1d.png)
 ### Analysis of Outcomes Based on Goals
 In this portion of the project we created a line graph titled “Outcomes Based on Goal”. On the x-axis the graph has the goal amount ranges. On the y-axis the graph shows the percentage of successful, failed, or canceled projects. This graph helps visualize the relationship between the goal amount ranges and the percentage of successful, failed, or canceled projects.
-![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111299372/194387929-9ab7b37d-2f14-4d5d-97d3-dc9afac94d52.png)
 ### Challenges and Difficulties Encountered
 One difficulty that can be encountered stems from working on an excel project and utilizing multiple sheets. This project had up to 11 different sheets at one point. It’s easy to get confused between the sheets and accidentally call data from the wrong one. One way to overcome this is to rename the sheets unique names that makes it clear as to what that sheet holds. Also, its important to check your work and make sure that all the data makes sense. 
 ## Results
