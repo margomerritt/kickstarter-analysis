@@ -7,7 +7,7 @@ The Purpose of this project is to analyze and understand crowdfunding data to de
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 In this portion of the project we created a line graph titled “Theater Outcomes Based on Launch Date”. This graph shows the number of successful, failed, and canceled plays per month. The data for this graph was pulled from a pivot chart that can be filtered by parent category and year. The parent category was filtered for “theater”. 
-![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes vs Launch](Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 In this portion of the project we created a line graph titled “Outcomes Based on Goal”. On the x-axis the graph has the goal amount ranges. On the y-axis the graph shows the percentage of successful, failed, or canceled projects. This graph helps visualize the relationship between the goal amount ranges and the percentage of successful, failed, or canceled projects.
 ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
