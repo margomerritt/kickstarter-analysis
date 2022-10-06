@@ -14,7 +14,6 @@ In this portion of the project we created a line graph titled “Outcomes Based 
 ### Challenges and Difficulties Encountered
 One difficulty that can be encountered stems from working on an excel project and utilizing multiple sheets. This project had up to 11 different sheets at one point. It’s easy to get confused between the sheets and accidentally call data from the wrong one. One way to overcome this is to rename the sheets unique names that makes it clear as to what that sheet holds. Also, its important to check your work and make sure that all the data makes sense. 
 ## Results
-
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 From the line graph for the Outcomes Based on Launch Date we see that the success or failure of a play is not correlated with the launch date. There are failed and successful plays throughout the whole year. From late spring to the end of summer there is a strong uptick of plays trying to launch. The summer months are likely peak months for theater entertainment, hence playwrights try to launch during that timeframe. 
 - What can you conclude about the Outcomes based on Goals?
