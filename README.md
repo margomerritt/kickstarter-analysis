@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The Purpose of this project is to analyze and understand crowdfunding data to determine if there are specific factors that make a projects’s campaign successful. The projects we are analyzing have a variety of categories such as film, theater, technology, publishing, music, games, food, and photography. We are using the data collected in this analysis to make decisions on how to crowdfund a campaign for a new play titled Fever. The playwright, Louise, is estimating a budget of over $10,000 for the play Fever.
+Analyzes and understands crowdfunding data to determine if there are specific factors that make a projects’s campaign successful. The projects we are analyzing have a variety of categories such as film, theater, technology, publishing, music, games, food, and photography. We are using the data collected in this analysis to make decisions on how to crowdfund a campaign for a new play titled Fever. The playwright, Louise, is estimating a budget of over $10,000 for the play Fever.
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 In this portion of the project we created a line graph titled “Theater Outcomes Based on Launch Date”. This graph shows the number of successful, failed, and canceled plays per month. The data for this graph was pulled from a pivot chart that can be filtered by parent category and year. The parent category was filtered for “theater”. 
